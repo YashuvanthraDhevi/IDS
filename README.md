@@ -45,8 +45,6 @@ This project specifically examines external debt owed to the World Bank by vario
 
    MAPE
 
-   R^2 Score
-
 6. Forecasting
 
     Prediction of debt using appropriate model
