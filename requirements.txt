@@ -5,7 +5,3 @@ pandas
 numpy
 random
 sklearn
-statsmodels
-plotly
-MinMaxScaler
-Sequential
